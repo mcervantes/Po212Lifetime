@@ -1,0 +1,8 @@
+#compile code
+###############
+*.so
+*.d
+
+#generated files and input files
+################
+*.root
